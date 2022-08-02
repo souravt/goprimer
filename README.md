@@ -5,3 +5,5 @@
 Visual learning materials to quickly learn golang.
 
 Various learning resources are distilled into easy to understand visual cheat sheets.
+
+https://excalidraw.com/ is used as primary tool to generate the images.
