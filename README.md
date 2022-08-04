@@ -7,6 +7,7 @@ Visual learning materials to quickly learn golang.
 Various learning resources are distilled into easy to understand visual cheat sheets.
 
 #### Topics
+- Interesting Facts
 - Language Basics
 - Data Types
 - Lexical Elements
